@@ -1,6 +1,5 @@
 ## Olá, eu sou Silas Gonçalves
 
-- 🔭 Hoje estou trabalhando com possibilidades futuras.
 - 🌱 Estou estudando Java e javascript full-stack
 - 🤔 Desenvolvimento das habilidades de programador ...
 - 📫 How to reach me: silasidc@gmail.com
